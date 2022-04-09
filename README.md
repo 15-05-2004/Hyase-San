@@ -34,7 +34,7 @@ heroku/nodejs
 
 ## ᴅᴇᴘᴏʏ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/15-05-2004/RiO/)
 
 ## ᴛᴇʀᴍᴜx
 ```bash
