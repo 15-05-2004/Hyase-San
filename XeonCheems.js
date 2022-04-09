@@ -2417,7 +2417,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 }
 break
 
-            case 'list': case 'menu': case 'help': case '?': {
+            case 'crni': case 'crno': case 'crna': case '?': {
             	timestampe = speed();
 latensie = speed() - timestampe
                 anu = ``
@@ -2476,7 +2476,7 @@ Please Select Button Below
                 XeonBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
                 }
 break
-case 'command':{
+case 'paihoe':{
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `Hi ${pushname}`,
