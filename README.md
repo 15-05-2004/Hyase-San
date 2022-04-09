@@ -1,6 +1,6 @@
 <h1 align="center">〃𝐑𝐢𝐎<br></h1>
 <p align="center">
-  <img src="https://www.linkpicture.com/q/9ccceadd70f26d0f0f20f3a6d597f29d.jpg" width="540" height="300" />
+  <img src="https://www.linkpicture.com/q/9ccceadd70f26d0f0f20f3a6d597f29d.jpg">
 </p>
 
 <p align="center">
